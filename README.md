@@ -1,8 +1,8 @@
-# Hello, World!
-### Creating my first HTML page
+# My Challenge!
+### More CSS styling...
 
-![Hello, world!](https://github.com/ca024/images/blob/main/day001/hello_world.JPG)
+![My challenge!](https://github.com/ca024/images/blob/main/day002/carlou_challenge.JPG)
 ---
 
 **GitHub Pages Link**
-> https://ca024.github.io/day001/
+> https://ca024.github.io/day002/
