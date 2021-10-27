@@ -1,2 +1,2 @@
-# day002
-More CSS styling...
+# day001
+Day 01 - Creating my first HTML page
