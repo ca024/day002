@@ -8,12 +8,16 @@
     background-color: whitesmoke;
 }
 
+body {
+    /* Put up and bottom padding */
+    padding: 100px 0;
+    /* Center the texts horizontally */
+    text-align: center;
+    
+}
 
-h1 {
-    /* Center div or element */
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+p {
+    /* Add top and bottom margin */
+    margin: 25px 0;
     /* End of noted code */
 }
